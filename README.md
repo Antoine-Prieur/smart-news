@@ -14,3 +14,13 @@ Liste d'idées:
   - si possible, jouer sur la popularité
   - on pourrait jouer ici avec des algorithmes d'outlier detection ou de correlation analysis
 - on pourrait aller chercher d'autres données à terme comme le temps qu'il fait pour compléter les analyses
+
+## Technos
+
+- Frontend: Vercel
+  - React + TS
+- Backend + DB: Railway
+  - Rust
+- Cronjobs: Github Actions
+  - Rust for crawler
+  - Python for ML tasks
